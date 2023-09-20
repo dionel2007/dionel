@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<body="FFFF00">
+  <center>joaquin,ian,agustin
+<P>
+  <h1>TRABAJO PRACTICO INTEGRADOR</h1> 
+  <h3>medici&oacute;n arduino uno </h3> 
+  <p class="texto">  
+    -El Arduino Uno es una placa de microcontrolador de código abierto basado en el microchip ATmega328P y desarrollado por Arduino.cc.1​2​ La placa está equipada con conjuntos de pines de E/S digitales y analógicas que pueden conectarse a varias placas de expansión y otros circuitos. La placa tiene 14 pines digitales, 6 pines analógicos y programables con el Arduino IDE (Entorno de desarrollo integrado) a través de un cable USB tipo B.3​ Puede ser alimentado por el cable USB o por una batería externa de 9 voltios, aunque acepta voltajes entre 7 y 20 voltios. También es similar al Arduino Nano y Leonardo.4​5​ El diseño de referencia de hardware se distribuye bajo una licencia Creative Commons Attribution Share-Alike 2.5 y está disponible en el sitio web de Arduino. Los archivos de diseño y producción para algunas versiones del hardware también están disponibles.
+
+La palabra "uno" significa en italiano lo mismo que en español, y se eligió para marcar el lanzamiento inicial del software Arduino. La placa Uno es la primera de una serie de placas Arduino basadas en USB,2​ y la versión 1.0 del Arduino IDE fueron las versiones de referencia de Arduino, ahora evolucionadas a nuevas versiones.3​ El ATmega328 en la placa viene preprogramado con un cargador de arranque que le permite cargar un nuevo código sin el uso de un programador de hardware externo.2​
+
+Mientras que el Uno se comunica utilizando el protocolo STK500 original, difiere de todas las placas anteriores en que no utiliza el chip de controlador USB a serie FTDI. En cambio, usa el Atmega16U2 (Atmega8U2 hasta la versión R2) programado como un adaptador USB a serie.6​-
+  </P> 
+  <P class="imagen"> 
+  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/250px-Arduino_Uno_-_R3.jpg>
+  </p>
+<head> 
+<style> 
+.texto {font-family:arial; 
+  font-size:6; 
+  color:ff8080; 
+  } 
+  h1 {font-size:arial; 
+  } 
+  </style> 
